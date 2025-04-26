@@ -36,7 +36,7 @@ O projeto permite adicionar registros via formulário e exibir todos os dados de
 
 ## 📈 Barra de Progresso
 
-<svg width="300" height="30"> <rect width="100%" height="30" fill="#e0e0e0" rx="5" ry="5"></rect> <rect width="30%" height="30" fill="#4caf50" rx="5" ry="5"></rect> <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#000" font-size="14">30%</text> </svg>
+![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Como rodar o projeto
 
