@@ -15,28 +15,6 @@ O projeto permite adicionar registros via formulário e exibir todos os dados de
 >
 > ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 
-## ✅ Checklist de Progresso
-
-- ⬜ Configurar ambiente e dependências
-- ⬜ Criar componente principal App
-- ⬜ Criar componente Header
-- ⬜ Criar componente Footer
-- ⬜ Criar componente Content
-- ⬜ Implementar conteúdo do Header - Em andamento... 40%
-- ⬜ Implementar conteúdo do Footer
-- ⬜ Implementar conteúdo do Content
-- ⬜ Criar formulário de registro de chopps
-- ⬜ Conectar formulário à um database
-- ⬜ Exibir registros de chopps na página principal
-- ⬜ Estilizar componentes com Sass
-- ⬜ Configurar rotas utilizando React Router
-- ⬜ Criar visualização mobile
-- ⬜ Testes básicos dos componentes
-- ⬜ Deploy da Aplicação
-
-## 📈 Barra de Progresso
-![](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
-
 ## Como rodar o projeto
 
 1. Clone o repositório
