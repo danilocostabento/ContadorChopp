@@ -22,21 +22,21 @@ O projeto permite adicionar registros via formulário e exibir todos os dados de
 - ☑️ Criar componente Header
 - ☑️ Criar componente Footer
 - ☑️ Criar componente Content
-- ⬜ Implementar conteúdo do Header - Em andamento... 40%
-- ⬜ Implementar conteúdo do Footer
-- ⬜ Implementar conteúdo do Content
-- ⬜ Criar formulário de registro de chopps
+- ☑️ Implementar conteúdo do Header
+- ⬜ Implementar conteúdo do Footer - Em andamento... 1%
+- ☑️ Implementar conteúdo do Content
+- ☑️ Criar formulário de registro de chopps
 - ⬜ Conectar formulário à um database
 - ⬜ Exibir registros de chopps na página principal
 - ⬜ Estilizar componentes com Sass
-- ⬜ Configurar rotas utilizando React Router
+- ☑️ Configurar rotas utilizando React Router
 - ⬜ Criar visualização mobile
 - ⬜ Testes básicos dos componentes
 - ⬜ Deploy da Aplicação
 
 ## 📈 Barra de Progresso
 
-![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![56%](https://geps.dev/progress/56?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## Como rodar o projeto
 
