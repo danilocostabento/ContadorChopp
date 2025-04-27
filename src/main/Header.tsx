@@ -8,9 +8,9 @@ export default function Header() {
         <img src='/assets/logo.png' alt="Dois copos de cerveja brindando" className="logo"/>
         <div className="nav-links">
           <ul>
-            <li><Link to='teste'>TEste</Link></li>
-            <li><Link to='teste'>Teste1</Link></li>
-            <li><Link to='teste'>Teste2</Link></li>
+            <li><Link to='/'>Home</Link></li>
+            <li><Link to='/add'>Adicionar Registro</Link></li>
+            <li><Link to='/registry'>Registros</Link></li>
           </ul>
         </div>
       </nav>
